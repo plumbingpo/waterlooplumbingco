@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waterlooplumbingco.com/sitemap.xml
